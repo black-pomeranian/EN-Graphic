@@ -274,16 +274,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   <SourceMode>k__BackingField: 0
-  <LowColor>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
-  <HighColor>k__BackingField: {r: 0, g: 0, b: 0, a: 1}
-  <SplitLevel>k__BackingField: 0.26
+  <LowColor>k__BackingField: {r: 1, g: 0.08962262, b: 0.08962262, a: 1}
+  <HighColor>k__BackingField: {r: 0.058670137, g: 0, b: 0.6603774, a: 1}
+  <SplitLevel>k__BackingField: 0
   <BlackColor>k__BackingField: {r: 0, g: 0, b: 0, a: 1}
-  <BlackLevel>k__BackingField: 0.05
+  <BlackLevel>k__BackingField: -1.6
   <WhiteColor>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
-  <WhiteLevel>k__BackingField: 0.57
+  <WhiteLevel>k__BackingField: 0.13
   <ContourColor>k__BackingField: {r: 0, g: 0, b: 0, a: 1}
   <DitherType>k__BackingField: 1
-  <DitherStrength>k__BackingField: 1
+  <DitherStrength>k__BackingField: 0.132
   <Shader>k__BackingField: {fileID: -6465566751694194690, guid: 5d0f93ba092e5a545bab40b50ba2861e,
     type: 3}
 --- !u!1 &410087039
