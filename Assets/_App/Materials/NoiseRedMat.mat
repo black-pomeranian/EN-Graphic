@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: NoiseRedMat
-  m_Shader: {fileID: -6465566751694194690, guid: 33c8b7aab6869c34994d38558e2814eb,
+  m_Shader: {fileID: -6465566751694194690, guid: 5eb0889e5aaea3845b6f87a52ccd59d5,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
